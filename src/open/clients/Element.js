@@ -18,7 +18,7 @@ import {Maturity, Platform, LinkKind,
     FDroidLink, AppleStoreLink, PlayStoreLink, WebsiteLink} from "../types.js";
 
 const trustedWebInstances = [
-    "app.element.io",   // first one is the default one
+    "riot.zakariao.nl",   // first one is the default one
     "develop.element.io",
     "chat.fedoraproject.org",
     "chat.fosdem.org",
